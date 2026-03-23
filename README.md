@@ -1,8 +1,8 @@
 # FragliePackageSystem 
 FragilePackageSystemer et samlet software‑projekt, der håndterer registrering, overvågning og visualisering af skrøbelige pakker. Systemet består af flere moduler, der arbejder sammen: en backend‑bibliotekskerne, et REST API, et SenseHat‑baseret IoT‑modul og en web‑frontend. Projektet demonstrerer, hvordan hardware, backend‑logik og brugergrænseflade kan integreres i én samlet løsning.
 
-Backend –  SkrøbligepakkerLib
-- link: https://github.com/malyunadan/Skr-blighedsPakkeLib
+Backend – PackageLibrary
+- link: https://github.com/malyunadan/PackageLibrary
 - Et C#‑bibliotek der indeholder:
 - Datamodeller for pakker
 - Validering
@@ -11,8 +11,8 @@ Backend –  SkrøbligepakkerLib
 Dette modual fungerer som den centrale logik i systemet og bruges af rest API'et.
 
 
-REST API - RESTSkrøbligePakker
--link: https://github.com/malyunadan/RESTSkr-bligePakker
+REST API - FragilePackageAPI-_
+- link: https://github.com/malyunadan/FragilePackageAPI-_
 - Et REST‑API bygget i C#/.NET, der gør det muligt at:
 - Oprette, hente og opdatere pakker
 - Kommunikere med frontend og IoT‑modulet
