@@ -1,1 +1,1 @@
-# FragliePackageSystem
+# FragliePackageSystem er et samlet software‑projekt, der håndterer registrering, overvågning og visualisering af skrøbelige pakker. Systemet består af flere moduler, der arbejder sammen: en backend‑bibliotekskerne, et REST API, et SenseHat‑baseret IoT‑modul og en web‑frontend. Projektet demonstrerer, hvordan hardware, backend‑logik og brugergrænseflade kan integreres i én samlet løsning.
